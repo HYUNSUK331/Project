@@ -29,7 +29,7 @@
 
 ## 👨🏻‍💻 Member
 
-|[<img src="https://avatars.githubusercontent.com/u/79829085?v=4" width="160px;" alt=""/>](https://github.com/Si-Hyeak-KANG) |[<img src="https://avatars.githubusercontent.com/u/98211110?v=4" width="160px" >](https://github.com/HYUNSUK331)|
+|[<img src="https://avatars.githubusercontent.com/u/79829085?v=4" width="160px;" alt=""/>](https://github.com/HYUNSUK331) |[<img src="https://avatars.githubusercontent.com/u/98211110?v=4" width="160px" >](https://github.com/Jezjae)|
 |:---:|:---:|
-|[BE 강시혁](https://github.com/Si-Hyeak-KANG) |[BE 이현석](https://github.com/HYUNSUK331)|
+|[이현석](https://github.com/HYUNSUK331) |[김재의](https://github.com/Jezjae)|
 |🌟Team Leader|배포 담당자|
