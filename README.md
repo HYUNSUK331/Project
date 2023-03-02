@@ -20,3 +20,16 @@
 ### ▫️ 핵심 기능
 
 * ??
+
+### ▫️ 서비스 특징
+
+* ??
+
+<br>
+
+## 👨🏻‍💻 Member
+
+|[<img src="https://avatars.githubusercontent.com/u/79829085?v=4" width="160px;" alt=""/>](https://github.com/Si-Hyeak-KANG) |[<img src="https://avatars.githubusercontent.com/u/98211110?v=4" width="160px" >](https://github.com/HYUNSUK331)|
+|:---:|:---:|
+|[BE 강시혁](https://github.com/Si-Hyeak-KANG) |[BE 이현석](https://github.com/HYUNSUK331)|
+|🌟Team Leader|배포 담당자|
